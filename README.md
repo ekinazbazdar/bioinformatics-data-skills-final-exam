@@ -6,7 +6,7 @@ The aim of this part is to create a **100x100 numpy array** which composed of **
 
 ```bash
 INPUT:	import numpy as np
-    	  import matplotlib.pylab as plt
+    	import matplotlib.pylab as plt
       	import seaborn as sns
 ```
 
@@ -14,7 +14,7 @@ Then, the range of the default random numpy array was assigned to 'rng' and a nu
 
 ```bash
 INPUT:	rng = np.random.default_rng()
-	      x = rng.integers(101, size=(100, 100))
+	x = rng.integers(101, size=(100, 100))
       	x
 
 OUTPUT:	array([[27, 88, 24, ..., 85, 81, 39],
@@ -61,7 +61,7 @@ Odd numbers were also filtered as follows:
 ```bash
 INPUT:	x[odd_numbers]
 
-OUTPUT:   array([27, 37, 35, ..., 81, 25, 43])
+OUTPUT: array([27, 37, 35, ..., 81, 25, 43])
 ```
 
 Since the true and false statements are equal to 1 and 0, respectively, odd numbers were multiplied by 1. By this way, true and false statements were resulted in "1" and "0", respectively. 
