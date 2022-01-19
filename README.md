@@ -34,7 +34,7 @@ INPUT:	sns.heatmap(x, cmap = 'hot')
       	plt.savefig("heatmap1.png", dpi=600)
       	plt.show()
 
-OUTPUT:	![HEATMAP 1](/https://github.com/ekinazbazdar/bioinformatics-data-skills-final-exam/blob/main/heatmap1.png?raw=true)
+OUTPUT:	![HEATMAP 1](https://github.com/ekinazbazdar/bioinformatics-data-skills-final-exam/blob/main/heatmap1.png?raw=true)
 ```
 
 ## **Question 2**
