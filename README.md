@@ -34,7 +34,7 @@ INPUT:	sns.heatmap(x, cmap = 'hot')
       	plt.savefig("heatmap1.png", dpi=600)
       	plt.show()
 
-OUTPUT:	![HEATMAP](https://github.com/ekinazbazdar/bioinformatics-data-skills-final-exam.git/heatmap1.png)
+OUTPUT:	![HEATMAP 1](/Users/ekinazbazdar/Desktop/DEU-BHT-PhD/Bioinformatics Data Skills/Final/heatmap1.png)
 ```
 
 ## **Question 2**
@@ -87,5 +87,5 @@ INPUT:	sns.heatmap(y, cmap = 'hot')
       	plt.savefig("heatmap2.png", dpi=600)
       	plt.show()
 
-OUTPUT:	![HEATMAP](https://github.com/ekinazbazdar/bioinformatics-data-skills-final-exam.git/heatmap2.png)
+OUTPUT:	![HEATMAP 2](/Users/ekinazbazdar/Desktop/DEU-BHT-PhD/Bioinformatics Data Skills/Final/heatmap2.png)
 ```
