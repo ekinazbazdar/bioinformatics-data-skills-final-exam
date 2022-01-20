@@ -2,7 +2,7 @@
 
 ## **Question 1**
 
-The aim of this part is to create a **100x100 numpy array** which composed of **random integers** that vary between **0 and 100** using *Anaconda-Jupyter notebook*. All output files were uploaded into the [Bioinformatics Data Skills Final Exam](https://github.com/ekinazbazdar/bioinformatics-data-skills-final-exam.git) repository. To achieve this aim, first, needed libraries were loaded as follows:
+The aim of this part is to create a **100x100 numpy array** which composed of **random integers** that vary between **0 and 100** using *Anaconda-Jupyter notebook*. All output files were uploaded into the [Bioinformatics Data Skills Final Exam](https://github.com/ekinazbazdar/bioinformatics-data-skills-final-exam.git) repository. To achieve this aim, first, needed libraries were imported as follows:
 
 ```bash
 INPUT:	import numpy as np
