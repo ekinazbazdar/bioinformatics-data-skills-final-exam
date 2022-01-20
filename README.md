@@ -79,7 +79,7 @@ OUTPUT:	array([[1, 0, 0, ..., 1, 1, 1],
 	       [0, 1, 0, ..., 0, 1, 1]])
 ```
 
-As a final step, same matrix that composed of random integers was visualized as a heatmap by using *seaborn library*. 
+As a final step, the matrix that composed of 0s and 1s was visualized as a heatmap by using *seaborn library*. 
 
 ```bash
 INPUT:	sns.heatmap(y, cmap = 'hot')
